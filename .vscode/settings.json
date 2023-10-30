@@ -11,5 +11,58 @@
     "javascriptreact",
     "typescript",
     "vue"
-  ]
+  ],
+  "cSpell.words": [
+    "aluno",
+    "ampproject",
+    "axios",
+    "browserslist",
+    "colummn",
+    "compat",
+    "composables",
+    "datepicker",
+    "davidsantos",
+    "etec",
+    "fontawesome",
+    "frequencia",
+    "Frequencia",
+    "gensync",
+    "geolocation",
+    "gotech",
+    "historico",
+    "Historico",
+    "hoverable",
+    "Iiwicm",
+    "jcesarmobile",
+    "jridgewell",
+    "jsesc",
+    "kleur",
+    "laboratorio",
+    "Laboratorios",
+    "nodeunit",
+    "paddign",
+    "periodo",
+    "Prensença",
+    "presenca",
+    "Presenca",
+    "Profesor",
+    "qrcode",
+    "redondo",
+    "rimraf",
+    "roboto",
+    "supabase",
+    "Supabase",
+    "typicode",
+    "videoplay"
+  ],
+  "[vue]": {
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+  },
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "[jsonc]": {
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  }
 }

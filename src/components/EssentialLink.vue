@@ -1,7 +1,7 @@
 <template>
   <q-item
     clickable
-    :to="route"
+    :to="{ name: routeName}"
     exact
   >
     <q-item-section
@@ -34,7 +34,7 @@ export default defineComponent({
       default: ''
     },
 
-    route: {
+    routeName: {
       type: String,
       default: ''
     },
@@ -42,6 +42,11 @@ export default defineComponent({
     icon: {
       type: String,
       default: ''
+    },
+
+    components: {
+      type: String,
+      DatePicker: ''
     }
   }
 })
